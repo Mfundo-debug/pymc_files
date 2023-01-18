@@ -1,2 +1,2 @@
 # pymc_files
-PyMC3 is a Python library for probabilistic programming.  It is widely used in machine learning, data science, and statistics
+PyMC3 is a Python library for probabilistic programming. It allows users to define stochastic models using an intuitive syntax and then fit those models using a variety of numerical methods, including Markov Chain Monte Carlo (MCMC) and Variational Inference (VI). PyMC3 is built on top of Theano and can be used to solve a wide range of problems, including Bayesian regression, survival analysis, and time series analysis. It is widely used in machine learning, data science, and statistics
