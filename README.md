@@ -13,3 +13,6 @@ PyMC3 is a powerful probabilistic programming library that allows users to defin
 * Hierarchical models, which allow for modeling complex, multi-level data structures, such as data from multiple groups or individuals.
 
 * Non-parametric models, which can be used for modeling data with complex, non-linear relationships.
+
+* I do acknowledge that I received help from chatGPT and stackoverflow 
+* https://openai.com/
